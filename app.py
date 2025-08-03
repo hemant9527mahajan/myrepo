@@ -1,5 +1,5 @@
 # app.py
-__version__ = "2.2.2"
+__version__ = "3.3.3"
 
 def main():
     print(f"Welcome to the versioned app!")
